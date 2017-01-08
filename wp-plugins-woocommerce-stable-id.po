@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-01-08 23:38+0700\n"
+"PO-Revision-Date: 2017-01-08 23:47+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3231,7 +3231,7 @@ msgstr "Jika Anda akan membebankan pajak penjualan, atau mengirimkan barang fisi
 
 #: includes/admin/class-wc-admin-post-types.php:2287
 msgid "Ready to start selling something awesome?"
-msgstr ""
+msgstr "Siap melakukan penjualan yang spektakuler?"
 
 #: includes/admin/class-wc-admin-post-types.php:2282
 msgid "Learn more about coupons"
@@ -11291,7 +11291,7 @@ msgstr ""
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:103
 msgid "Sale start date"
-msgstr ""
+msgstr "Tanggal penjualan dimulai"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:97
 msgid "Cancel schedule"
