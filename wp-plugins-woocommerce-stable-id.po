@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-01-08 23:29+0700\n"
+"PO-Revision-Date: 2017-01-08 23:38+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -45,7 +45,7 @@ msgstr ""
 #: includes/cli/class-wc-cli-product.php:2060
 #: includes/wc-rest-functions.php:106
 msgid "Invalid image type."
-msgstr ""
+msgstr "Tipe gambar tidak sah"
 
 #: includes/admin/views/html-admin-page-status-report.php:390
 msgid "The MaxMind GeoIP Database does not exist - Geolocation will not function. You can download and install it manually from %1$s to the path: %2$s. Scroll down to \\\"Downloads\\\" and download the \\\"Binary / gzip\\\" file next to \\\"GeoLite Country\\\""
@@ -175,7 +175,7 @@ msgstr ""
 
 #: templates/myaccount/dashboard.php:28
 msgid "Hello %s%s%s (not %2$s? %sSign out%s)"
-msgstr ""
+msgstr "Halo %s%s%s (bukan %2$s? %sKeluar%s)"
 
 #: templates/loop/result-count.php:41
 msgctxt "%1$d = first, %2$d = last, %3$d = total"
