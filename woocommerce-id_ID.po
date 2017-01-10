@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-01-10 02:07+0700\n"
+"PO-Revision-Date: 2017-01-10 20:31+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4523,7 +4523,7 @@ msgstr "Alamat ini akan digunakan di halaman pembayaran."
 
 #: templates/myaccount/dashboard.php:34
 msgid "From your account dashboard you can view your %1$srecent orders%2$s, manage your %3$sshipping and billing addresses%2$s and %4$sedit your password and account details%2$s."
-msgstr "Melalui dasbor ini, anda dapat melihat %1$sorder terbaru%2$s, mengelola %3$salamat pengiriman dan tagihan%2$s dan %4$smelakukan penggantian kata sandi dan detail informasi lainnya%2$s."
+msgstr "Melalui dasbor ini, anda dapat melihat %1$sorder terbaru%2$s, mengelola %3$salamat pengiriman dan tagihan%2$s serta %4$smelakukan penggantian kata sandi dan detail informasi lainnya%2$s."
 
 #: templates/myaccount/form-lost-password.php:40
 msgid "Reset Password"
