@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-01-10 20:31+0700\n"
+"PO-Revision-Date: 2017-01-11 22:31+0700\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -155,7 +155,7 @@ msgstr "Mundur"
 
 #: templates/myaccount/lost-password-confirmation.php:27
 msgid "A password reset email has been sent to the email address on file for your account, but may take several minutes to show up in your inbox. Please wait at least 10 minutes before attempting another reset."
-msgstr ""
+msgstr "Sebuah berkas mengulang sandi telah dikirim ke alamat surel anda unutk rekening yang anda miliki , tetapi sandi tersebut membutuhkan beberapa menit untuk muncul di kotak surel Anda. Tunggu minimal 10 menit sebelum mencoba ulang."
 
 #: templates/myaccount/lost-password-confirmation.php:24
 msgid "Password reset email has been sent."
@@ -910,7 +910,7 @@ msgstr ""
 
 #: includes/libraries/wp-background-process.php:423
 msgid "Every %d Minutes"
-msgstr ""
+msgstr "Tiap %d Menit"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:315
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:329
@@ -14681,7 +14681,7 @@ msgstr "%s penjual terbaik bulan ini (terjual %d)"
 
 #: includes/admin/class-wc-admin-dashboard.php:100
 msgid "<strong>%s</strong> net sales this month"
-msgstr ""
+msgstr "<strong>%s</strong> penjualan bersih bulan ini"
 
 #: includes/admin/class-wc-admin-dashboard.php:40
 #: includes/admin/class-wc-admin-menus.php:97
